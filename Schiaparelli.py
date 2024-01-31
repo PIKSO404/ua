@@ -92,9 +92,9 @@ def logo():
            \033[0;37m ##     ## ##    ##    ###    ########  
            \033[0;93m ###   ### ###   ##   ## ##   ##     ## 
            \033[0;91m #### #### ####  ##  ##   ##  ##     ## 
-           \033[0;92m   ## ### ## ## ## ## ##     ## ########  
+         \033[0;92m   ## ### ## ## ## ## ##     ## ########  
            \033[0;91m ##     ## ##  #### ######### ##   ##   
-           \033[0;93m   ##     ## ##   ### ##     ## ##    ##  
+         \033[0;93m   ##     ## ##   ### ##     ## ##    ##  
            \033[0;32m ##     ## ##    ## ##     ## ##     ## 
              \033[1;96m▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
              \033[1;93m▇▇➣    \033[1;91mAUTHOR   : ANIS SCHIAPARELLI        \033[1;93m▇▇
@@ -109,7 +109,7 @@ def logo():
 def reg():
     os.system('termux-setup-storage')
     os.system('clear')
-    os.system('xdg-open https://www.facebook.com/bk4human')
+    os.system('xdg-opcomuman'https://www.facebook.com/profile.php?id=61555872831623')
     logo()
     print ('')
     print ('                     Checking Approval')
@@ -124,7 +124,7 @@ def reg():
         bsn_menu()
     else:
         os.system('clear')
-        os.system('xdg-open https://www.facebook.com/bk4human')
+        os.system('xdg-open 'https://www.facebook.com/profile.php?id=61555872831623')
         logo()
         print('')
         print ('               \tApproved Not Detected')
