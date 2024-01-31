@@ -124,7 +124,7 @@ def reg():
         bsn_menu()
     else:
         os.system('clear')
-        os.system('xdg-open https://www.facebook.com/profile.php?id=61555872831623')
+        os.system('xdg-opcomuman'https://www.facebook.com/profile.php?id=61555872831623')
         logo()
         print('')
         print ('               \tApproved Not Detected')
